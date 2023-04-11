@@ -3,21 +3,21 @@
 > -  译者：
 > -  校对者：
 
-![Logical Fallacies – Definition and Fallacy Examples](https://www.freecodecamp.org/news/content/images/size/w2000/2021/05/fallacies-cover-image.jpg)
+![逻辑谬误 – 定义和事例](https://www.freecodecamp.org/news/content/images/size/w2000/2021/05/fallacies-cover-image.jpg)
 
-When you're debating someone, you want to use all the resources at your disposal to convince them you're right.
+当你在和某人辩论时，你也想用所有你能想到的资源去说服他吧。
 
-But you should be careful that you don't end up using a logical fallacy to help you make your point.
+但与此同时，您也要小心有没有用逻辑上的谬误来支撑自己的观点。
 
-## What is a Logical Fallacy?
+## 什么是逻辑谬误?
 
-A logical fallacy is an error in reasoning that makes your argument less effective and convincing.
+逻辑谬误是那些在推理中的错误。它会减少你论证中的有效性和说服力。
 
-There are two major types of logical fallacies, formal and informal.
+有两种主要的逻辑谬误，它们分别是形式谬误和非形式谬误。
 
-In formal fallacies, there's a problem with **how** you structure your argument, and how you're making your points. You might be speaking the truth, but the logic breaks down because of the way you're putting your arguments together.
+在形式谬误中，你**如何**组织你的论据和支撑你的观点出现了问题。你可能说出了真相，但你的逻辑因你组织论证的方式而出现了错误。
 
-In informal fallacies, there's a problem with **what** you're saying, and the information might be incorrect or misleading. In this article, we'll focus on these informal fallacies as they can be pretty common in everyday debate.
+在非形式谬误中，你说了**什么**出现了问题——你说的信息可能是虚假的和误导的。在这篇文章里，我们会主要关注那些非形式谬误，因为它们经常出现在我们的日常生活中。
 
 ## List of Logical Fallacies with Examples
 
